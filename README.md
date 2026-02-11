@@ -1,45 +1,4 @@
-# ni
-
-~~*`npm i` in a yarn project, again? F\*\*k!*~~
-
-**ni** - use the right package manager
-
-<br>
-
-```
-npm i -g @antfu/ni
-```
-
-### Homebrew (macOS, Linux)
-
-```
-brew install ni
-```
-
-<a href='https://docs.npmjs.com/cli/v6/commands/npm'>npm</a> · <a href='https://yarnpkg.com'>yarn</a> · <a href='https://pnpm.io/'>pnpm</a> · <a href='https://bun.sh/'>bun</a> · <a href='https://deno.land/'>deno</a>
-
-<br>
-
-### `ni` - install
-
-```bash
-ni
-
-# npm install
-# yarn install
-# pnpm install
-# bun install
-# deno install
-```
-
-```bash
-ni vite
-
-# npm i vite
-# yarn add vite
-# pnpm add vite
-# bun add vite
-# deno add vite
+te
 ```
 
 ```bash
@@ -48,16 +7,7 @@ ni @types/node -D
 # npm i @types/node -D
 # yarn add @types/node -D
 # pnpm add -D @types/node
-# bun add -d @types/node
-# deno add -D @types/node
-```
-
-```bash
-ni -P
-
-# npm i --omit=dev
-# yarn install --production
-# pnpm i --production
+# bun add -d @types/nodon
 # bun install --production
 # (deno not supported)
 ```
